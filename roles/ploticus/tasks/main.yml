@@ -1,0 +1,3 @@
+---
+- name: Install tree
+  homebrew: name=ploticus state=present
