@@ -11,7 +11,8 @@ Software
 
 System
 ------
-* [*] iTerm
+
+* [x] iTerm
 
 Text Processing
 ---------------
