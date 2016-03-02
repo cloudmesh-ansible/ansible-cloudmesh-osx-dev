@@ -11,17 +11,17 @@ Software
 
 * System
 
-  * [v] iTerm
+  * [x] iTerm
 
 * Text Processing
 
   * [ ] LaTex
   * [ ] Lyx
-  * [v] jabref
+  * [x] jabref
   
   * Emacs
 
-    * [v] Aquaemacs
+    * [x] Aquaemacs
     * [ ] CarbonEmacs
     * [ ] Texmacs
   
