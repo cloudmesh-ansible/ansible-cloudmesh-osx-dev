@@ -9,19 +9,21 @@ Cloudmesh will than go ahead and add thes package when you execute the launcher.
 Software
 ========
 
-* System
+System
+------
+* [*] iTerm
 
-  * [*] iTerm
+Text Processing
+---------------
 
-* Text Processing
-
-  * [ ] LaTex
-  * [ ] Lyx
-  * [*] jabref
+* [ ] LaTex
+* [ ] Lyx
+* [*] jabref
   
-  * Emacs
-  
-    * [*] Aquaemacs
-    * [ ] CarbonEmacs
-    * [ ] Texmacs
+Emacs
+^^^^^  
+
+* [*] Aquaemacs
+* [ ] CarbonEmacs
+* [ ] Texmacs
   
