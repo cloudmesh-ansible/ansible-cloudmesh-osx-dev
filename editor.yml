@@ -1,0 +1,6 @@
+---
+
+- name: install r
+  hosts: localhost
+  roles:
+    - emacs

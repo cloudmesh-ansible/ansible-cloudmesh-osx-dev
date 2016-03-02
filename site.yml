@@ -1,0 +1,7 @@
+---
+
+- name: install r
+  hosts: localhost
+  become: yes
+  roles:
+    - r

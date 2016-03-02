@@ -1,0 +1,9 @@
+---
+
+- name: install r
+  hosts: localhost
+  roles:
+    - wget
+    - tree
+    - iterm
+

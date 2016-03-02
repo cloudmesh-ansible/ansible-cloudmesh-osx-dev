@@ -1,0 +1,8 @@
+---
+
+- name: update homebrew
+  homebrew_tap: tap=homebrew/science state=present
+
+- name: Install git
+  homebrew: name=octave state=present
+  
