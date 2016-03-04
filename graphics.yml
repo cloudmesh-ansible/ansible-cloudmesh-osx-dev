@@ -6,3 +6,4 @@
     - gnuplot
     - graphviz
     - ploticus
+    - pygal
