@@ -5,3 +5,9 @@ galaxy_info:
   company: Indiana University / Cloudmesh
   license: Apache 2.0
   min_ansible_version: 2.0
+  platforms:
+  - name: OSX
+    versions:
+    - 10.11.5
+  galaxy_tags:
+    - osx
