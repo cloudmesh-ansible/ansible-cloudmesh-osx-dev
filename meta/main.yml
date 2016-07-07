@@ -11,3 +11,4 @@ galaxy_info:
     - 10.11.5
   galaxy_tags:
     - osx
+  dependencies: []
