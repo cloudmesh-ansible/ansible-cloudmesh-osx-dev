@@ -3,7 +3,7 @@ Cloudmesh OSX DEV
 
 Collection of ansible roles to make OSX more usable for development
 
-Instalation of a particular topic:
+Instalation of a particular topic::
 
   ./bin/cm install analytics
   ./bin/cm install editor
