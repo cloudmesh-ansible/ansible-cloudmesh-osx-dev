@@ -1,6 +1,6 @@
 ---
 
-- name: install r
+- name: install system tools
   hosts: localhost
   roles:
     - wget

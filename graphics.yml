@@ -1,6 +1,6 @@
 ---
 
-- name: install r
+- name: install graphics
   hosts: localhost
   roles:
     - gnuplot

@@ -1,8 +1,8 @@
 ---
 galaxy_info:
   author: Gregor von Laszewski
-  description: Some useful development tools and Libraries for big data analytics
-  company: Indiana University / Cloudmesh
+  description: Some useful development tools and libraries for big data analytics
+  company: Cloudmesh
   license: Apache 2.0
   min_ansible_version: 2.0
   platforms:

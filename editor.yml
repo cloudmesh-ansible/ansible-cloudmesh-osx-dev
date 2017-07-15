@@ -1,6 +1,6 @@
 ---
 
-- name: install r
+- name: install editors
   hosts: localhost
   roles:
     - emacs

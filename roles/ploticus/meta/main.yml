@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Gregor von Laszewski
-  description: TBD
-  company: Indiana University / Cloudmesh
+  description: Install Ploticus
+  company: Cloudmesh
   license: Apache 2.0
   min_ansible_version: 2.0

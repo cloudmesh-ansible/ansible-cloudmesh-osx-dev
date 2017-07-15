@@ -18,6 +18,7 @@ Software
   * [x] wget
   
 * Virtual Machines and Containers
+
  * [x] virtualbox
  * [x] vagrant
  * [x] docker

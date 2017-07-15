@@ -1,13 +1,13 @@
 ---
 - name: Download R
   get_url: 
-    url: "https://cran.r-project.org/bin/macosx/R-3.2.3.pkg"
-    dest: "{{ downloads_directory }}/R-3.2.3.pkg"
-    checksum: "sha1:e3ea68dcf6414022e5c177ac0dee061764cccd23"
+    url: "https://cran.r-project.org/bin/macosx/R-3.4.1.pkg"
+    dest: "{{ downloads_directory }}/R-3.4.1.pkg"
+    checksum: "sha1:4138852c052a2056ce648d886b9b47d8a514b762"
 
 - name: Install R
   command: >
     chdir={{ downloads_directory }}
-    installer -package R-3.2.3.pkg -target /
+    installer -package R-3.4.1.pkg -target /
     creates=/Applications/R.app
   become: yes
